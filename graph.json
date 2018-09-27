@@ -1,0 +1,899 @@
+{
+  "label":"customer",
+  "children":[
+        {
+  "label": "Claire",
+  "img": "./images/Claire2.jpg",
+  "size": 40000,
+  "children": [
+    {
+        "label": "Social Media",
+        "children": [{
+            "label": "facebook",
+            "name": "facebook",
+
+            "img": "./images/fb.png",
+            "size": 40000,
+            "children":[
+              {
+                "label":"1014 Friends",
+                "name":"1014 Friends",
+
+                "img":"./images/friends.jpg",
+                "size":4000
+              },
+              {
+                "label":"Follows 1054 people",
+                "name":"Follows 1054 people",
+
+                "img":"./images/followers.jpg",
+                "size":4000
+              },
+              {
+                "label":"Topic Of Interest",
+                "name":"Topic Of Interest",
+
+                "img":"./images/interest.jpg",
+                "size":4000,
+                "children":[
+                  {
+                    "label":"IOT 75%",
+                    "name":"IOT 75%",
+
+                    "img":"./images/iot.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"Jazz Music 62%",
+                    "name":"Jazz Music 62%",
+
+                    "img":"./images/music.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"Gucci 55%",
+                    "name":"Gucci 55%",
+
+                    "img":"./images/gucci.jpg",
+                    "size":4000
+                  }
+
+                ]
+
+              }
+
+            ]
+          },
+          {
+            "label": "Twitter",
+            "name": "Twitter",
+
+            "img": "./images/twitter.png",
+            "size": 40000,
+            "children":[
+              {
+                "label":"305 Followers",
+                "name":"305 Followers",
+
+                "img":"./images/followers.jpg",
+                "size":4000
+              },
+              {
+                "label":"Follows 125 people",
+                "name":"Follows 125 people",
+
+                "img":"./images/friends.jpg",
+                "size":4000
+              },
+              {
+                "label":"Topic Of Interest",
+                "name":"Topic Of Interest",
+
+                "img":"./images/interest.jpg",
+                "size":4000,
+                "children":[
+                  {
+                    "label":"IOT 87%",
+                    "name":"IOT 87%",
+
+                    "img":"./images/iot.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"Jazz Music 44%",
+                    "name":"Jazz Music 44%",
+
+                    "img":"./images/music.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"Ice Skating 51%",
+                    "name":"Ice Skating 51%",
+
+                    "img":"./images/scating.jpg",
+                    "size":4000
+                  }
+
+                ]
+
+              }
+
+            ]
+          }
+        ]
+      },
+
+      {
+        "label": " Business Travel",
+        "children": [{
+            "label": "Denver",
+            "name": "Denver",
+
+            "img": "./images/denver.jpg",
+            "size": 40000,
+            "children":[
+              {
+                "label":"Business Class 94%",
+                "name":"Business Class 94%",
+
+                "img":"./images/business.jpg",
+                "size":4000
+              },
+              {
+                "label":"Aisle Seat 95%",
+                "name":"Aisle Seat 95%",
+
+                "img":"./images/seat.jpg",
+                "size":4000
+              },
+              {
+                "label":"Asian Veg Meal (99%)",
+                "name":"Asian Veg Meal (99%)",
+
+                "img":"./images/meal.jpg",
+                "size":4000
+              },
+              {
+                "label":"5-6 PM 94%",
+                "name":"5-6 PM 94%",
+
+                "img":"./images/time.jpg",
+                "size":4000
+              }
+
+
+
+            ]
+          },
+          {
+            "label": "Chicago",
+            "name": "Chicago",
+
+            "img": "./images/chicago.jpg",
+            "size": 40000,
+            "children":[
+              {
+                "label":"Business Class 98%",
+                "name":"Business Class 98%",
+
+                "img":"./images/business.jpg",
+                "size":4000
+              },
+              {
+                "label":"Aisle Seat 91%",
+                "name":"Aisle Seat 91%",
+
+                "img":"./images/seat.jpg",
+                "size":4000
+              },
+              {
+                "label":"Asian Veg Meal (100%)",
+                "name":"Asian Veg Meal (100%)",
+
+                "img":"./images/meal.jpg",
+                "size":4000
+              },
+              {
+                "label":"5-6 PM (99%)",
+                "name":"5-6 PM (99%)",
+
+                "img":"./images/time.jpg",
+                "size":4000
+              }
+
+
+
+            ]
+
+          },
+          {
+            "label": "Los Angeles",
+            "name": "Los Angeles",
+
+            "img": "./images/lax.jpg",
+            "size": 40000,
+            "children":[
+              {
+                "label":"Business Class 88%",
+                "name":"Business Class 88%",
+
+                "img":"./images/business.jpg",
+                "size":4000
+              },
+              {
+                "label":"Aisle Seat 93%",
+                "name":"Aisle Seat 93%",
+
+                "img":"./images/seat.jpg",
+                "size":4000
+              },
+              {
+                "label":"Asian Veg Meal (99%)",
+                "name":"Asian Veg Meal (99%)",
+
+                "img":"./images/meal.jpg",
+                "size":4000
+              },
+              {
+                "label":"7-8 AM (94%)",
+                "name":"7-8 AM (94%)",
+
+                "img":"./images/time.jpg",
+                "size":4000
+              }
+
+
+
+            ]
+          }]
+        },
+          {
+            "label": " Leisure Travel",
+            "children": [{
+              "label": "Miami",
+              "name": "Miami",
+
+              "img": "./images/miami.jpg",
+              "size": 40000,
+              "children":[
+                {
+                  "label":"Economy Class 94%",
+                  "name":"Economy Class 94%",
+
+                  "img":"./images/business.jpg",
+                  "size":4000
+                },
+                {
+                  "label":"Aisle Seat 95%",
+                  "name":"Aisle Seat 95%",
+
+                  "img":"./images/seat.jpg",
+                  "size":4000
+                },
+                {
+                  "label":"Asian Veg Meal (90%)",
+                  "name":"Asian Veg Meal (90%)",
+
+                  "img":"./images/meal.jpg",
+                  "size":4000
+                },
+                {
+                  "label":"3-4 PM 94%",
+                  "name":"3-4 PM 94%",
+
+                  "img":"./images/time.jpg",
+                  "size":4000
+                }
+    ]
+            }]
+          },
+
+          {
+            "label": "Loyalty",
+            "children": [{
+                "label": "SouthWest",
+                "name": "SouthWest",
+
+                "img": "./images/airlines.jpg",
+                "size": 40000,
+                "children":[
+                  {
+                    "label":"50000 points",
+                    "name":"50000 points",
+
+                    "img":"./images/points.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"A-List Perferred",
+                    "name":"A-List Perferred",
+
+                    "img":"./images/platinum.jpg",
+                    "size":4000
+                  }
+
+                ]
+
+              },
+              {
+                "label": "American Airlines",
+                "name": "American Airlines",
+
+                "img": "./images/airlines.jpg",
+                "size": 40000,
+                "children":[
+                  {
+                    "label":"4000 points",
+                    "name":"4000 points",
+
+                    "img":"./images/points.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"Gold",
+                    "name":"Gold",
+
+                    "img":"./images/gold.jpg",
+                    "size":4000
+                  }
+
+                ]
+
+              },
+              {
+                "label": "Avis",
+                "name": "Avis",
+
+                "img": "./images/avis.jpg",
+                "size": 40000,
+                "children":[
+                  {
+                    "label":"4000 points",
+                    "name":"4000 points",
+
+                    "img":"./images/points.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"Preferred Plus",
+                    "name":"Preferred Plus",
+
+                    "img":"./images/platinum.jpg",
+                    "size":4000
+                  }
+
+                ]
+              },
+              {
+                "label": "Hilton",
+                "name": "Hilton",
+
+                "img": "./images/hilton.jpg",
+                "size": 40000,
+                "children":[
+                  {
+                    "label":"10 points",
+                    "name":"10 points",
+
+                    "img":"./images/points.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"Gold",
+                    "name":"Gold",
+
+                    "img":"./images/gold.jpg",
+                    "size":4000
+                  }
+
+                ]
+              },
+              {
+                "label": "Marriott",
+                "name": "Marriott",
+
+                "img": "./images/marriott.jpg",
+                "size": 40000,
+                "children":[
+                  {
+                    "label":"89000 points",
+                    "name":"89000 points",
+
+                    "img":"./images/points.jpg",
+                    "size":4000
+                  },
+                  {
+                    "label":"Platinum Elite",
+                    "name":"Platinum Elite",
+
+                    "img":"./images/platinum.jpg",
+                    "size":4000
+                  }
+
+                ]
+              }
+
+            ]
+          },
+          {
+            "label": "Demographics",
+            "children": [{
+                "label": "Age 26 years",
+                "name": "Age 26 years",
+
+                "img": "./images/demographics.jpg",
+                "size": 40000
+
+              },
+              {
+                "label": "Los Angeles Resident",
+                "name": "Los Angeles Resident",
+
+                "img": "./images/chicago.jpg",
+                "size": 40000
+
+              },
+              {
+                "label": "Female",
+                "name": "Female",
+
+                "img": "./images/Claire2.jpg",
+                "size": 40000
+
+              }
+
+
+            ]
+          }
+
+        ]
+      },
+      {
+        "label": "Neal",
+        "img": "./images/neal.jpg",
+        "size": 40000,
+        "children": [
+          {
+              "label": "Social Media",
+              "children": [{
+                  "label": "facebook",
+                  "name": "facebook",
+
+                  "img": "./images/fb.png",
+                  "size": 40000,
+                  "children":[
+                    {
+                      "label":"1014 Friends",
+                      "name":"1014 Friends",
+
+                      "img":"./images/friends.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"Follows 1054 people",
+                      "name":"Follows 1054 people",
+
+                      "img":"./images/followers.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"Topic Of Interest",
+                      "name":"Topic Of Interest",
+
+                      "img":"./images/interest.jpg",
+                      "size":4000,
+                      "children":[
+                        {
+                          "label":"IOT 83%",
+                          "name":"IOT 83%",
+
+                          "img":"./images/iot.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"Baseball 62%",
+                          "name":"Baseball 62%",
+
+                          "img":"./images/baseball.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"Apple Products 55%",
+                          "name":"Apple Products 55%",
+
+                          "img":"./images/apple.jpg",
+                          "size":4000
+                        }
+
+                      ]
+
+                    }
+
+                  ]
+                },
+                {
+                  "label": "Twitter",
+                  "name": "Twitter",
+
+                  "img": "./images/twitter.png",
+                  "size": 40000,
+                  "children":[
+                    {
+                      "label":"300 Followers",
+                      "name":"300 Followers",
+
+                      "img":"./images/followers.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"Follows 125 people",
+                      "name":"Follows 125 people",
+
+                      "img":"./images/friends.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"Topic Of Interest",
+                      "name":"Topic Of Interest",
+
+                      "img":"./images/interest.jpg",
+                      "size":4000,
+                      "children":[
+                        {
+                          "label":"IOT 83%",
+                          "name":"IOT 83%",
+
+                          "img":"./images/iot.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"Baseball 62%",
+                          "name":"Baseball 62%",
+
+                          "img":"./images/baseball.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"Apple Products 55%",
+                          "name":"Apple Products 55%",
+
+                          "img":"./images/apple.jpg",
+                          "size":4000
+                        }
+
+                      ]
+
+                    }
+
+                  ]
+                }
+              ]
+            },
+
+            {
+              "label": " Business Travel",
+              "children": [{
+                  "label": "Phoenix",
+                  "name": "Phoenix",
+
+                  "img": "./images/phoenix.jpg",
+                  "size": 40000,
+                  "children":[
+                    {
+                      "label":"Business Class 94%",
+                      "name":"Business Class 94%",
+
+                      "img":"./images/business.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"Aisle Seat 95%",
+                      "name":"Aisle Seat 95%",
+
+                      "img":"./images/seat.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"NLML 99%",
+                      "name":"NLML 99%",
+
+                      "img":"./images/meal.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"5-6 PM 94%",
+                      "name":"5-6 PM 94%",
+
+                      "img":"./images/time.jpg",
+                      "size":4000
+                    }
+
+
+
+                  ]
+                },
+                {
+                  "label": "New York",
+                  "name": "New York",
+
+                  "img": "./images/newyork.jpg",
+                  "size": 40000,
+                  "children":[
+                    {
+                      "label":"Business Class 98%",
+                      "name":"Business Class 98%",
+
+                      "img":"./images/business.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"Aisle Seat 91%",
+                      "name":"Aisle Seat 91%",
+
+                      "img":"./images/seat.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"NLML 100%",
+                      "name":"NLML 100%",
+
+                      "img":"./images/meal.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"5-6 AM 99%",
+                      "name":"5-6 AM 99%",
+
+                      "img":"./images/time.jpg",
+                      "size":4000
+                    }
+
+
+
+                  ]
+
+                },
+                {
+                  "label": "Los Angeles",
+                  "name": "Los Angeles",
+
+                  "img": "./images/lax.jpg",
+                  "size": 40000,
+                  "children":[
+                    {
+                      "label":"Business Class 88%",
+                      "name":"Business Class 88%",
+
+                      "img":"./images/business.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"Aisle Seat 93%",
+                      "name":"Aisle Seat 93%",
+
+                      "img":"./images/seat.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"NLML 99%",
+                      "name":"NLML 99%",
+
+                      "img":"./images/meal.jpg",
+                      "size":4000
+                    },
+                    {
+                      "label":"7-8 PM 94%",
+                      "name":"7-8 PM 94%",
+
+                      "img":"./images/time.jpg",
+                      "size":4000
+                    }
+
+
+
+                  ]
+                }]
+              },
+                {
+                  "label": " Leisure Travel",
+                  "children": [{
+                    "label": "Miami",
+                    "name": "Miami",
+
+                    "img": "./images/miami.jpg",
+                    "size": 40000,
+                    "children":[
+                      {
+                        "label":"Economy Class 94%",
+                        "name":"Economy Class 94%",
+
+                        "img":"./images/business.jpg",
+                        "size":4000
+                      },
+                      {
+                        "label":"Aisle Seat 95%",
+                        "name":"Aisle Seat 95%",
+
+                        "img":"./images/seat.jpg",
+                        "size":4000
+                      },
+                      {
+                        "label":"NLML 99%",
+                        "name":"NLML 99%",
+
+                        "img":"./images/meal.jpg",
+                        "size":4000
+                      },
+                      {
+                        "label":"3-4 PM 94%",
+                        "name":"3-4 PM 94%",
+
+                        "img":"./images/time.jpg",
+                        "size":4000
+                      }
+          ]
+                  }]
+                },
+
+                {
+                  "label": "Loyalty",
+                  "children": [{
+                      "label": "Delta",
+                      "name": "Delta",
+
+                      "img": "./images/airlines.jpg",
+                      "size": 40000,
+                      "children":[
+                        {
+                          "label":"50000 points",
+                          "name":"50000 points",
+
+                          "img":"./images/points.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"A-List Preferred",
+                          "name":"A-List Preferred",
+
+                          "img":"./images/platinum.jpg",
+                          "size":4000
+                        }
+
+                      ]
+
+                    },
+                    {
+                      "label": "American Airlines",
+                      "name": "American Airlines",
+
+                      "img": "./images/airlines.jpg",
+                      "size": 40000,
+                      "children":[
+                        {
+                          "label":"40000 points",
+                          "name":"40000 points",
+
+                          "img":"./images/points.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"Gold",
+                          "name":"Gold",
+
+                          "img":"./images/gold.jpg",
+                          "size":4000
+                        }
+
+                      ]
+
+                    },
+                    {
+                      "label": "Avis",
+                      "name": "Avis",
+
+                      "img": "./images/avis.jpg",
+                      "size": 40000,
+                      "children":[
+                        {
+                          "label":"4000 points",
+                          "name":"4000 points",
+
+                          "img":"./images/points.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"Preferred Plus",
+                          "name":"Preferred Plus",
+
+                          "img":"./images/platinum.jpg",
+                          "size":4000
+                        }
+
+                      ]
+                    },
+                    {
+                      "label": "Hyatt",
+                      "name": "Hyatt",
+
+                      "img": "./images/hotel.jpg",
+                      "size": 40000,
+                      "children":[
+                        {
+                          "label":"10 points",
+                          "name":"10 points",
+
+                          "img":"./images/points.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"Globalist",
+                          "name":"Globalist",
+
+                          "img":"./images/airlines.jpg",
+                          "size":4000
+                        }
+
+                      ]
+                    },
+                    {
+                      "label": "IHG",
+                      "name": "IHG",
+
+                      "img": "./images/hotel.jpg",
+                      "size": 40000,
+                      "children":[
+                        {
+                          "label":"89000 points",
+                          "name":"89000 points",
+
+                          "img":"./images/points.jpg",
+                          "size":4000
+                        },
+                        {
+                          "label":"Platinum Elite",
+                          "name":"Platinum Elite",
+
+                          "img":"./images/platinum.jpg",
+                          "size":4000
+                        }
+
+                      ]
+                    }
+
+                  ]
+                },
+                {
+                  "label": "Demographics",
+                  "children": [{
+                      "label": "Age 26 years",
+                      "name": "Age 26 years",
+
+                      "img": "./images/demographics.jpg",
+                      "size": 40000
+
+                    },
+                    {
+                      "label": "New York Resident",
+                      "name": "New York Resident",
+
+                      "img": "./images/newyork.jpg",
+                      "size": 40000
+
+                    },
+                    {
+                      "label": "Male",
+                      "name": "Male",
+
+                      "img": "./images/neal.jpg",
+                      "size": 40000
+
+                    }
+
+
+                  ]
+                }
+
+              ]
+            }
+          ]
+        }
