@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Analytics Persona DashBoard</title>
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="https://aframe.io/releases/0.2.0/aframe.min.js"></script>
 
     <style>
@@ -47,8 +47,8 @@ var vis;
 var force = d3.layout.force();
 vis = d3.select("#vis").append("svg").attr("width", w).attr("height", h);
 
-d3.json("graph.json", function(json) {
-
+d3.json("./graph.json", function(json) {
+  console.log("json",json);
   root = json;
   root.fixed = true;
   root.x = w / 2;
